@@ -1,0 +1,177 @@
+.container-fluid
+{
+    padding: 0;
+    background-color: #9b5151;
+}
+.hed {
+  font-family: "Ubuntu", sans-serif;
+}
+
+#title {
+  background-color: #9b5151;
+  color: #fff;
+}
+.tsec
+{
+    padding: 3% 15% 3% 15%;
+}
+.isec
+{
+    text-align: center;
+}
+.navbar
+{
+    padding: 2% 15% 0 15%;
+}
+
+.navbar-brand {
+  font-family: "ubuntu", sans-serif;
+  font-weight: bold;
+  margin-left: 0px;
+  font-size: 2.5rem;
+}
+.logo {
+  font-size: 3rem;
+}
+.iphone6 {
+  position: relative;
+  height: 15rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  transform: rotate(25deg);
+}
+.iphone7 {
+    position: relative;
+    height: 15rem;
+    margin-top: 1rem;
+    padding-left: 4rem;
+    transform: rotate(10deg);
+  }
+.nav-item {
+  padding: 0 18px;
+}
+#features {
+  padding: 7% 15% 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+h3 {
+  font-family: montserrat;
+  font-weight: bold;
+}
+p {
+  color: #8f8f8f;
+}
+.icon {
+  color: #9b5151;
+  margin-bottom: 1.5rem;
+}
+.icon:hover {
+  color: #e97878;
+}
+#testimonials {
+  background: #9b5151;
+
+  text-align: center;
+  color: #fff;
+}
+.carousel-item {
+  padding: 5% 15% 5% 15%;
+}
+.dog-img {
+  width: 30%;
+  border-radius: 100%;
+  padding: 5%;
+}
+.dog-img1 {
+  width: 30%;
+  border-radius: 100%;
+  padding: 5%;
+}
+.dog-img2 {
+  width: 30%;
+  border-radius: 100%;
+  padding: 5%;
+}
+.dog-img3 {
+  width: 30%;
+  border-radius: 100%;
+  padding: 5%;
+}
+#press {
+  background: #9b5151;
+  text-align: center;
+  padding-bottom: 5%;
+}
+#pricing {
+  padding: 100px 100px 50px 100px;
+}
+.cp {
+  padding: 3% 2%;
+}
+.card-body {
+  text-align: center;
+}
+#cta
+  {
+      background-color: #9b5151;
+      color: #fff;
+      text-align: center;
+      padding: 4%;
+      
+     }
+     .ca
+     {
+        
+        padding-bottom: 2%;
+        margin-left: 25%;
+        margin-right: 25%;
+        font-family: "ubuntu", sans-serif;
+        font-weight: bolder;
+        font-size: 2rem;
+     }
+     #footer
+     {
+        text-align: center;
+        padding: 3%;  
+     }
+     .fab
+     {
+         padding: 1%;
+     }
+     .fas
+     {
+         padding: 1%;
+     }
+  
+ @media (max-width: 507px) 
+{
+    .isec
+{
+    padding: 5% 0 5% 0;
+}
+.iphone6 {
+    position: relative;
+    height: 15rem;
+    margin-top: 1rem;
+    transform: rotate(25deg);
+  }
+  .iphone7
+  {
+    display: none;
+      
+    }
+.tsec
+{
+    padding: 3% 15% 3% 15%;
+    text-align: center;
+}
+.navbar-brand {
+    font-family: "ubuntu", sans-serif;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-left: 25%;
+  } 
+  
